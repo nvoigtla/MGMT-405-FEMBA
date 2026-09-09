@@ -3,7 +3,7 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//UCLA Anderson//MGMT 405 FEMBA//EN
-X-WR-CALNAME:MGMT 405 (FEMBA) - Videos
+X-WR-CALNAME:MGMT 405 (FEMBA) - Videos + Exams
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 UID:mgmt405-femba-video-w1-1@nvoigtla.github.io
@@ -59,6 +59,19 @@ DESCRIPTION:Week 4 - by 10/18. https://nvoigtla.github.io/MGMT-405-FEMBA/
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-04.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mgmt405-femba-exam-w6-1@nvoigtla.github.io
+DTSTAMP:20260909T175208Z
+LAST-MODIFIED:20260909T175208Z
+SEQUENCE:362512
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+TRANSP:TRANSPARENT
+SUMMARY:MGMT 405 (FEMBA): Midterm Exam (online)
+DESCRIPTION:Week 6 - Fri\, Oct 30 – Sat\, Oct 31. https://nvoigtla.gith
+ ub.io/MGMT-405-FEMBA/week-06.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-06.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mgmt405-femba-video-w7-1@nvoigtla.github.io
 DTSTAMP:20260909T175208Z
 LAST-MODIFIED:20260909T175208Z
@@ -97,5 +110,18 @@ SUMMARY:MGMT 405 (FEMBA): Watch 2 practice videos for Module 7
 DESCRIPTION:Week 10 - by 11/29. https://nvoigtla.github.io/MGMT-405-FEMBA
  /week-10.html
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-10.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mgmt405-femba-exam-w12-1@nvoigtla.github.io
+DTSTAMP:20260909T175208Z
+LAST-MODIFIED:20260909T175208Z
+SEQUENCE:362512
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+SUMMARY:MGMT 405 (FEMBA): Final Exam (online)
+DESCRIPTION:Week 12 - Sat\, Dec 12 – Sun\, Dec 13. https://nvoigtla.git
+ hub.io/MGMT-405-FEMBA/week-12.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-12.html
 END:VEVENT
 END:VCALENDAR

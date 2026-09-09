@@ -3,7 +3,7 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//UCLA Anderson//MGMT 405 FEMBA//EN
-X-WR-CALNAME:MGMT 405 (FEMBA) - Videos
+X-WR-CALNAME:MGMT 405 (FEMBA) - Assignments + Videos
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 UID:mgmt405-femba-video-w1-1@nvoigtla.github.io
@@ -46,6 +46,19 @@ DESCRIPTION:Week 3 - by 10/11. https://nvoigtla.github.io/MGMT-405-FEMBA/
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-03.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mgmt405-femba-assign-w3-1@nvoigtla.github.io
+DTSTAMP:20260909T175208Z
+LAST-MODIFIED:20260909T175208Z
+SEQUENCE:362512
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:MGMT 405 (FEMBA): Problem Set 1
+DESCRIPTION:Week 3 - Tue\, Oct 13. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-03.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-03.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mgmt405-femba-video-w4-1@nvoigtla.github.io
 DTSTAMP:20260909T175208Z
 LAST-MODIFIED:20260909T175208Z
@@ -59,6 +72,19 @@ DESCRIPTION:Week 4 - by 10/18. https://nvoigtla.github.io/MGMT-405-FEMBA/
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-04.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mgmt405-femba-assign-w5-1@nvoigtla.github.io
+DTSTAMP:20260909T175208Z
+LAST-MODIFIED:20260909T175208Z
+SEQUENCE:362512
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+TRANSP:TRANSPARENT
+SUMMARY:MGMT 405 (FEMBA): Problem Set 2
+DESCRIPTION:Week 5 - Tue\, Oct 27. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-05.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-05.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mgmt405-femba-video-w7-1@nvoigtla.github.io
 DTSTAMP:20260909T175208Z
 LAST-MODIFIED:20260909T175208Z
@@ -69,6 +95,19 @@ TRANSP:TRANSPARENT
 SUMMARY:MGMT 405 (FEMBA): Watch Videos 1 – 8 for Module 6
 DESCRIPTION:Week 7 - by 11/8. https://nvoigtla.github.io/MGMT-405-FEMBA/w
  eek-07.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-07.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mgmt405-femba-assign-w7-1@nvoigtla.github.io
+DTSTAMP:20260909T175208Z
+LAST-MODIFIED:20260909T175208Z
+SEQUENCE:362512
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:MGMT 405 (FEMBA): Problem Set 3
+DESCRIPTION:Week 7 - Tue\, Nov 10. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-07.html
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-07.html
 END:VEVENT
 BEGIN:VEVENT
@@ -86,6 +125,19 @@ DESCRIPTION:Week 8 - by 11/15. https://nvoigtla.github.io/MGMT-405-FEMBA/
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-08.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mgmt405-femba-assign-w9-1@nvoigtla.github.io
+DTSTAMP:20260909T175208Z
+LAST-MODIFIED:20260909T175208Z
+SEQUENCE:362512
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+SUMMARY:MGMT 405 (FEMBA): Problem Set 4
+DESCRIPTION:Week 9 - Tue\, Nov 24. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-09.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-09.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mgmt405-femba-video-w10-1@nvoigtla.github.io
 DTSTAMP:20260909T175208Z
 LAST-MODIFIED:20260909T175208Z
@@ -96,6 +148,19 @@ TRANSP:TRANSPARENT
 SUMMARY:MGMT 405 (FEMBA): Watch 2 practice videos for Module 7
 DESCRIPTION:Week 10 - by 11/29. https://nvoigtla.github.io/MGMT-405-FEMBA
  /week-10.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-10.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mgmt405-femba-assign-w10-1@nvoigtla.github.io
+DTSTAMP:20260909T175208Z
+LAST-MODIFIED:20260909T175208Z
+SEQUENCE:362512
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
+SUMMARY:MGMT 405 (FEMBA): Problem Set 5
+DESCRIPTION:Week 10 - Thu\, Dec 3. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-10.html
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-10.html
 END:VEVENT
 END:VCALENDAR
