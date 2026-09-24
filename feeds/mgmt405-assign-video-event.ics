@@ -3,7 +3,7 @@ VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 PRODID:-//UCLA Anderson//MGMT 405 FEMBA//EN
-X-WR-CALNAME:MGMT 405 (FEMBA) - Videos + Exams
+X-WR-CALNAME:MGMT 405 (FEMBA) - Assignments + Videos + Live Sessions
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
 UID:mgmt405-femba-video-w1-1@nvoigtla.github.io
@@ -45,6 +45,34 @@ DESCRIPTION:Week 3 - by 10/11. https://nvoigtla.github.io/MGMT-405-FEMBA/
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-03.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mgmt405-femba-event-w3-1@nvoigtla.github.io
+DTSTAMP:20260924T234216Z
+LAST-MODIFIED:20260924T234216Z
+SEQUENCE:384462
+DTSTART:20261011T160000Z
+DTEND:20261011T170000Z
+TRANSP:OPAQUE
+SUMMARY:Econ: Coffee & Econ with Nico
+DESCRIPTION:Week 3 - Sun\, Oct 11 · 9:00 am PT. Join: https://ucla.zoom.
+ us/j/98762774970?pwd=3v56aqvWEAG88VCfyza2o1RUEaHiIp.1 https://nvoigtla.gi
+ thub.io/MGMT-405-FEMBA/week-03.html
+URL:https://ucla.zoom.us/j/98762774970?pwd=3v56aqvWEAG88VCfyza2o1RUEaHiIp
+ .1
+END:VEVENT
+BEGIN:VEVENT
+UID:mgmt405-femba-assign-w3-1@nvoigtla.github.io
+DTSTAMP:20260924T234216Z
+LAST-MODIFIED:20260924T234216Z
+SEQUENCE:384462
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+TRANSP:TRANSPARENT
+SUMMARY:Econ: Problem Set 1
+DESCRIPTION:Week 3 - Tue\, Oct 13. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-03.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-03.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mgmt405-femba-video-w4-1@nvoigtla.github.io
 DTSTAMP:20260924T234216Z
 LAST-MODIFIED:20260924T234216Z
@@ -58,17 +86,17 @@ DESCRIPTION:Week 4 - by 10/18. https://nvoigtla.github.io/MGMT-405-FEMBA/
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-04.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mgmt405-femba-exam-w6-1@nvoigtla.github.io
+UID:mgmt405-femba-assign-w5-1@nvoigtla.github.io
 DTSTAMP:20260924T234216Z
 LAST-MODIFIED:20260924T234216Z
 SEQUENCE:384462
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261101
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
 TRANSP:TRANSPARENT
-SUMMARY:Econ: Midterm Exam (online)
-DESCRIPTION:Week 6 - Fri\, Oct 30 – Sat\, Oct 31. https://nvoigtla.gith
- ub.io/MGMT-405-FEMBA/week-06.html
-URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-06.html
+SUMMARY:Econ: Problem Set 2
+DESCRIPTION:Week 5 - Tue\, Oct 27. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-05.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-05.html
 END:VEVENT
 BEGIN:VEVENT
 UID:mgmt405-femba-video-w7-1@nvoigtla.github.io
@@ -81,6 +109,19 @@ TRANSP:TRANSPARENT
 SUMMARY:Econ: Watch Videos 1 – 8 for Module 6
 DESCRIPTION:Week 7 - by 11/8. https://nvoigtla.github.io/MGMT-405-FEMBA/w
  eek-07.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-07.html
+END:VEVENT
+BEGIN:VEVENT
+UID:mgmt405-femba-assign-w7-1@nvoigtla.github.io
+DTSTAMP:20260924T234216Z
+LAST-MODIFIED:20260924T234216Z
+SEQUENCE:384462
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+TRANSP:TRANSPARENT
+SUMMARY:Econ: Problem Set 3
+DESCRIPTION:Week 7 - Tue\, Nov 10. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-07.html
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-07.html
 END:VEVENT
 BEGIN:VEVENT
@@ -98,6 +139,19 @@ DESCRIPTION:Week 8 - by 11/15. https://nvoigtla.github.io/MGMT-405-FEMBA/
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-08.html
 END:VEVENT
 BEGIN:VEVENT
+UID:mgmt405-femba-assign-w9-1@nvoigtla.github.io
+DTSTAMP:20260924T234216Z
+LAST-MODIFIED:20260924T234216Z
+SEQUENCE:384462
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+TRANSP:TRANSPARENT
+SUMMARY:Econ: Problem Set 4
+DESCRIPTION:Week 9 - Tue\, Nov 24. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-09.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-09.html
+END:VEVENT
+BEGIN:VEVENT
 UID:mgmt405-femba-video-w10-1@nvoigtla.github.io
 DTSTAMP:20260924T234216Z
 LAST-MODIFIED:20260924T234216Z
@@ -111,16 +165,16 @@ DESCRIPTION:Week 10 - by 11/29. https://nvoigtla.github.io/MGMT-405-FEMBA
 URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-10.html
 END:VEVENT
 BEGIN:VEVENT
-UID:mgmt405-femba-exam-w12-1@nvoigtla.github.io
+UID:mgmt405-femba-assign-w10-1@nvoigtla.github.io
 DTSTAMP:20260924T234216Z
 LAST-MODIFIED:20260924T234216Z
 SEQUENCE:384462
-DTSTART:20261212T220000Z
-DTEND:20261213T010000Z
-TRANSP:OPAQUE
-SUMMARY:Econ: Final Exam (online)
-DESCRIPTION:Week 12 - Sat\, Dec 12 · 2:00 PM – 5:00 PM. https://nvoigt
- la.github.io/MGMT-405-FEMBA/week-12.html
-URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-12.html
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+TRANSP:TRANSPARENT
+SUMMARY:Econ: Problem Set 5
+DESCRIPTION:Week 10 - Thu\, Dec 3. https://nvoigtla.github.io/MGMT-405-FE
+ MBA/week-10.html
+URL:https://nvoigtla.github.io/MGMT-405-FEMBA/week-10.html
 END:VEVENT
 END:VCALENDAR
